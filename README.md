@@ -1,7 +1,7 @@
 # Call_Manager_Program
 Taken hidden, complex dependencies from MPP to clearly visible dependencies and continuous improvements
 
-<img width="1045" height="572" alt="image" src="https://github.com/user-attachments/assets/5fad5c3f-f948-469a-bace-ffd1ec32385d" />
+<img width="999" height="580" alt="image" src="https://github.com/user-attachments/assets/4cffe86c-3018-4e20-8a5f-1629e2993b94" />
 
 In large-scale deployments, failure rarely happens because of a single component.
 It happens when:
