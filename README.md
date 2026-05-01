@@ -14,3 +14,5 @@ Cutovers are poorly orchestrated
 This model is built to surface those risks early and make execution predictable.
 
 From the Core team up to Executive Management, Stakeholders can evaluate true status within minutes.
+
+##### Please note the above diagram is simply a rendition of the original
