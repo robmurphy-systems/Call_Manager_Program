@@ -1,3 +1,8 @@
+# When a 300 Line MPP couldnt show how Cisco's CallManager would come together, I got creative
+
+# Executive Management barely payed attention to the infamous Project Status Dashboard of Tasks, Owners, Dates, R/Y/G
+# and rushed me through to show them this diagram. 
+
 # Call_Manager_Program
 Taken hidden, complex dependencies from MPP to clearly visible dependencies and continuous improvements
 
