@@ -2,7 +2,8 @@
 ## Call_Manager_Program
 Taken hidden, complex dependencies from MPP to clearly visible dependencies and continuous improvements
 
-No "Jedi Handwaving" on Status. Straight up data driven decision making. 
+No “Jedi Handwaving” on status.
+Execution decisions are based on observable dependency signals, measurable progress, and data-driven risk identification. 
 
 
 <img width="999" height="580" alt="image" src="https://github.com/user-attachments/assets/4cffe86c-3018-4e20-8a5f-1629e2993b94" />
